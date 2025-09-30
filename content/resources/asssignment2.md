@@ -4,6 +4,8 @@ description: Reading assignment on information technology and business transform
 file: /courses/15-598-it-and-business-transformation-spring-2003/fe143c487a013e9e08e4d5a746ac20c2_asssignment2.pdf
 file_size: 73256
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

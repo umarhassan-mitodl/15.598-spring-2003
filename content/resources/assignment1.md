@@ -5,6 +5,8 @@ description: "Assigned readings and cases for a lecture on on IT as a transforma
 file: /courses/15-598-it-and-business-transformation-spring-2003/113714bcf3298cc81e4a6f653823a38b_assignment1.pdf
 file_size: 33854
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

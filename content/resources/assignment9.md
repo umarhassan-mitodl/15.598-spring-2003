@@ -5,6 +5,8 @@ description: Assigned readings and cases for a guest lecture by Frank Erbrick, M
 file: /courses/15-598-it-and-business-transformation-spring-2003/0fecdbf60028587a0505928279946061_assignment9.pdf
 file_size: 44440
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

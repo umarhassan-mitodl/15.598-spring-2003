@@ -5,6 +5,8 @@ description: Assigned readings to prepare for a guest lecture by Jeff Lynn, VP a
 file: /courses/15-598-it-and-business-transformation-spring-2003/62bb3042711135cb4834996f8c9ef825_assignment11.pdf
 file_size: 46309
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

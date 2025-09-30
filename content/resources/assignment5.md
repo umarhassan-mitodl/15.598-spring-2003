@@ -5,6 +5,8 @@ description: "Assigned readings for a lecture on information technology scenario
 file: /courses/15-598-it-and-business-transformation-spring-2003/aec62bde190a4b6258b928fcb2c856cd_assignment5.pdf
 file_size: 34230
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

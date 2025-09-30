@@ -5,6 +5,8 @@ description: Assigned readings and preparation questions for a lecture on scenar
 file: /courses/15-598-it-and-business-transformation-spring-2003/893474dc28f8dd57df7c33dd1a1d9221_assignment6.pdf
 file_size: 51939
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
