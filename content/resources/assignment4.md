@@ -6,8 +6,6 @@ description: Assigned readings to prepare for a for a guest lecture by Marshall 
 file: /courses/15-598-it-and-business-transformation-spring-2003/a5dcee8471ea781513d8af3e3420be48_assignment4.pdf
 file_size: 38437
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

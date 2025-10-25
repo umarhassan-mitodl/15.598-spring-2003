@@ -5,8 +5,6 @@ description: 'Assigned readings and cases for a guest lecture by Rick Swanborg, 
 file: /courses/15-598-it-and-business-transformation-spring-2003/eda24eb59bdad839754b5d0f7df39e48_assignment7.pdf
 file_size: 44638
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
